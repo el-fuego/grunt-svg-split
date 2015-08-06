@@ -1,0 +1,37 @@
+{
+  name: "grunt-svg-split",
+  description: "Split SVG sprite to files",
+  version: "0.0.1",
+  homepage: "https://github.com/el-fuego/grunt-svg-split.git",
+  author: {
+    name: "Yuriy Pulyaev",
+    email: "watt87@mail.ru"
+  },
+  repository: {
+    type: "git",
+    url: "https://github.com/el-fuego/grunt-svg-split.git"
+  },
+  bugs: {
+    url: "https://github.com/el-fuego/grunt-svg-split.git/issues"
+  },
+  licenses: [
+    {
+      type: "GNU",
+      url: "https://github.com/el-fuego/grunt-svg-split/blob/master/LICENSE.md"
+    }
+  ],
+  main: "Gruntfile.js",
+  engines: {
+    node: ">= 0.8.0"
+  },
+  peerDependencies: {
+    grunt: "~0.4.1"
+  },
+  keywords: [
+    "gruntplugin",
+    "svg",
+    "split",
+    "sprite",
+    "separate"
+  ]
+}
