@@ -5,7 +5,7 @@ ___
 ### Instalation
 
 ```shell
-npm install grunt-svg-split --save-dev
+npm install https://github.com/el-fuego/grunt-svg-split --save-dev
 ```
 
 ___
