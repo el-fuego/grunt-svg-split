@@ -60,7 +60,7 @@ module.exports = function (grunt) {
           path = file.dist + '/' + (id || Math.random()) + ".svg";
           grunt.file.write(path, currentSvg);
 
-          grunt.log.writeln(path + ' written';
+          grunt.log.writeln(path + ' written');
         }
 
         grunt.log.ok();
