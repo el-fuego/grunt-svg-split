@@ -16,9 +16,9 @@ grunt.initConfig({
     'svg-split': {
         sprite: {
             src: [
-                'sprite.svg'
+                'path/to/sprite.svg'
             ],
-            dest: 'splitted'
+            dist: 'path/to/folder'
         }
     }
 };
